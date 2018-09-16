@@ -1,2 +1,9 @@
-# OneApi
-If your have any api request / response, you can use one-api, it's a full solution
+# 什么是OneApi
+OneApi是一个Api请求基础框架,你可以基于它打造自己的SDK.当你的项目提供Api的时候,你可以使用OneApi打造自己的ApiSDK提供给其他Team或者第三方使用.
+
+# 为什么需要OneApi
+在PAAS,SAAS盛行的年代,各方都提供了不同的Api接口,在一个项目中你会用到格式各样的Api SDK,编写不一样的代码和判断语句,造成了可读性差,不可维护.OneApi是一个基础框架,也是一个规范,你可以使用它编写自己的Api SDK,或者把其他第三方的Api打造成统一的SDK.
+
+OneApi可自行扩展,也可以使用我们提供的一些公共SDK来使用,比如微信公众平台等.
+
+
